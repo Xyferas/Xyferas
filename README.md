@@ -103,9 +103,4 @@
 ### Thanks for Visiting my GitHub Profile!
 
 ---
-<h3 align="center"> Contribution Snake</h3>
 
-<p align="center">
-  <img src="https://github.com/Xyferas/Xyferas/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-  
