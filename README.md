@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔐 Cybersecurity Enthusiast | 🌐 Networking Learner | ☕ Java & Python Developer | 🎓 MCA Graduate<br><br>## About Me<br><br>MCA graduate with interests in Cybersecurity, Networking, and Backend Development. Experienced in Python, Java, Django, PostgreSQL, and API development. Built projects involving real-time threat detection, log analysis, and web application development. Continuously improving my skills through hands-on learning, TryHackMe, and cybersecurity research. Passionate about solving technical problems, learning new technologies, and building secure and efficient solutions.<br>
+
+🔐 Cybersecurity Enthusiast | 🌐 Networking Learner | ☕ Java & Python Developer | 🎓 MCA Graduate<br><br>
+# 💫 About Me: 
+<br>MCA graduate with interests in Cybersecurity, Networking, and Backend Development. Experienced in Python, Java, Django, PostgreSQL, and API development. Built projects involving real-time threat detection, log analysis, and web application development. Continuously improving my skills through hands-on learning, TryHackMe, and cybersecurity research. Passionate about solving technical problems, learning new technologies, and building secure and efficient solutions.<br>
 
 
 ## 🌐 Socials:
