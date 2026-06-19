@@ -119,7 +119,7 @@
 
 <p align="center">
   <a href="https://xyferas.vercel.app">
-    <img src="https://komarev.com/ghpvc/?username=Xyferas&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+    <img src="https://api.visitorbadge.io/api/visitors?path=Xyferas.Xyferas&label=Profile%20Views&countColor=%230e75b6&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
 
